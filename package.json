@@ -1,0 +1,14 @@
+{
+  "name": "week_15_day_1_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  }
+}
